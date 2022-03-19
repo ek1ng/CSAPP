@@ -1,7 +1,7 @@
 # CSAPPlab
 
-## 当前进度 Todo
-- [ ] Bilibili翻译课程 lecture 1-4
+## Todo
+- [ ] Bilibili翻译课程 lecture 2-4
 - [ ] 搭建实验环境
 - [ ] Data lab
 
@@ -27,7 +27,7 @@ https://www.zhihu.com/question/20402534 <br>
 
 ## Timeline
 2022.3.16 决定开始学习并且简单的编写了此README，预计明天先开始看csapp的bilibili网课lecture1-4，看完data lab的内容后就着手开工
-
+2022.3.19 完成lecture01 cource overview
 
 
 
