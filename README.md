@@ -1,8 +1,8 @@
 # CSAPPlab
 
 ## Todo
-- [x] Bilibili翻译课程 lecture 1-2
-- [ ] Bilibili翻译课程 lecture 3-4
+- [x] Bilibili翻译课程 lecture 1-3
+- [ ] Bilibili翻译课程 lecture 4
 - [ ] 搭建实验环境
 - [ ] Data lab
 
@@ -27,8 +27,9 @@
 ## Timeline
 2022.3.16 决定开始学习并且简单的编写了此README<br>
 2022.3.19 完成lecture01 cource overview<br>
-2022.3.24 完成lecture02 Bits Bytes and integer，主要内容是信息存储和整数表示，包括C语言的有无符号数转化，符号位扩展，截断等<br>
+2022.3.24 完成lecture02 Bits Bytes and integer，主要内容是信息存储和整数表示，包括C语言的有无符号数转化，符号位扩展，截断等内容。<br>
+2022.3.25 完成lecture03 Bits Bytes and integer，主要内容是整数运算和信息存储，包括机器字长，大小端，整数加减乘除运算与溢出等内容，感觉课堂习题的例子非常不错，对整数运算与溢出有了更深刻的了解。<br>
 
-
-
+## 博客经验贴链接
+https://ek1ng.com/2022/03/21/CSAPP/
 
