@@ -7,6 +7,6 @@ https://ek1ng.com/2022/03/21/CSAPP/
 
 ## Todo
 - [x] Bilibili翻译课程 lecture 1-4
-- [ ] 搭建实验环境
+- [x] 搭建实验环境
 - [ ] Data lab
 
